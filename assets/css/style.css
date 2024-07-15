@@ -90,7 +90,8 @@ nav{
     font-weight: 500;
     line-height: 17px;
     text-align: center;
-    color: white;    
+    color: white;  
+    cursor: pointer;
 }
 
 .prices-body{
@@ -674,6 +675,7 @@ footer{
         line-height: 17px;
         text-align: center;
         color: white;
+        cursor: pointer;
     }
 
     .hero{
